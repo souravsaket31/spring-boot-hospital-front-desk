@@ -1,0 +1,9 @@
+
+http://localhost:8080/getspecialistxml/fetchAllDetails
+http://localhost:8080/getspecialistjson/fetchAllDetails
+http://localhost:8080/getspecialistjson/TATA/Cardiologist
+RIIMS
+http://localhost:8080/getspecialistxml/TATA/Dentist
+http://localhost:8080/bookappointmentjson/Sandhya/Stuart/Tuesday
+http://localhost:8080/bookappointmentjson/Sandhya/Suganthi/Monday
+http://localhost:8080/getBedNumber/Apollo
