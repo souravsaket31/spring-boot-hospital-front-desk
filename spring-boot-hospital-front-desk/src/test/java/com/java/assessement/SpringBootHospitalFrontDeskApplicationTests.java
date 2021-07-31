@@ -8,6 +8,7 @@ class SpringBootHospitalFrontDeskApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//assertEquals("Saket", "Saket");
 	}
 
 }
